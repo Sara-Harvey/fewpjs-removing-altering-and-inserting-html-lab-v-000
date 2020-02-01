@@ -1,2 +1,2 @@
-element.classList.remove("this-is-fine");
-
+let element = document.querySelector("main#main");
+element.remove();
