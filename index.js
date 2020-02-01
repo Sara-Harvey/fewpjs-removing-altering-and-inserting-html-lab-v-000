@@ -1,6 +1,6 @@
-    document.body.appendChild(element)
-    
-    let ul = document.createElement('ul')
+document.body.appendChild(element)
+
+let ul = document.createElement('ul')
  
 for (let i = 0; i < 3; i++) {
   let li = document.createElement('li')
